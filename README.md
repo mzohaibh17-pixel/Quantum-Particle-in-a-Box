@@ -56,10 +56,10 @@ It provides a computational and visual understanding of how a particle behaves i
 ![Wavefunctions](plots/wavefunctions.png)
 
 ### Probability Densities
-![Probability Densities](plots/probability_densities.png)
+![Probability Densities](plots/plots/prob_density.png)
 
 ### Effect of Box Length L
-![Box Length Effect](plots/box_length_effect.png)
+![Box Length Effect](plots/effect_L.png)
 
 ### Effect of Particle Mass m
-![Mass Effect](plots/mass_effect.png)
+![Mass Effect](plots/effect_m.png)
